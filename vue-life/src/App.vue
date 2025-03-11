@@ -1,11 +1,11 @@
 <template>
   <div>
-    <parent></parent>
+    <demo></demo>
   </div>
 </template>
 
 <script setup lang="ts">
-import parent from "./components/parent.vue";
+import demo from "./components/nextTick/index.vue";
 </script>
 
 <style scoped></style>
